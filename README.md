@@ -1,5 +1,48 @@
 # 💫 About Me:
-⚡ I’m currently working on<br>Securing and scaling enterprise applications at COMMTEL (InfoSec) with a focus on secure coding, vulnerability remediation, and cloud-native security solutions. Also contributing to SaaS platforms and automation tools integrating Generative AI and Agentic AI.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Open-source projects and innovative solutions in Generative AI, Full-Stack Development (Next.js, MERN, Python), Cloud Engineering, Cybersecurity, UI/UX, and system design.<br><br>🤝 I’m looking for help with<br>Advancing in Agentic AI workflows, enterprise-grade cybersecurity, and high-availability SaaS architectures.<br><br>🌱 I’m currently learning<br><br>Artificial Intelligence (NVIDIA Academy, Gov House IT Program)<br><br>Cloud-Native Security & Secure Software Delivery<br><br>Advanced System Design & Architecture<br><br>Expanding knowledge in Blockchain (Top 6 Performer at Xord Bootcamp)<br><br>💬 Ask me about<br><br>Full-Stack Engineering (JS, TS, Python, Next.js, React, FastAPI, MERN)<br><br>Cloud & DevOps (AWS, CI/CD, scalability, system hardening)<br><br>Generative AI & Automation<br><br>Cybersecurity best practices<br><br>Entrepreneurship & SaaS product development<br><br>⚡ Fun fact<br>I’ve built everything from AI-powered SaaS dashboards, cross-platform apps, agent-based systems, and automation bots—all the way down to small side projects like custom utilities, calculators, and dashboards that make coding fun. 🚀
+⚡ I’m currently working on  
+- Securing and scaling enterprise applications at **COMMTEL (InfoSec)** with a focus on:  
+  - Secure coding & vulnerability remediation  
+  - Cloud-native security solutions  
+- Contributing to SaaS platforms & automation tools integrating **Generative AI and Agentic AI**  
+
+---
+
+## 🧑‍🤝‍🧑 I’m looking to collaborate on  
+- Open-source projects in:  
+  - Generative AI  
+  - Full-Stack Development (Next.js, MERN, Python)  
+  - Cloud Engineering & Cybersecurity  
+  - UI/UX and System Design  
+
+---
+
+## 🤝 I’m looking for help with  
+- Advancing in **Agentic AI workflows**  
+- Strengthening **enterprise-grade cybersecurity**  
+- Optimizing **high-availability SaaS architectures**  
+
+---
+
+## 🌱 I’m currently learning  
+- **Artificial Intelligence** (NVIDIA Academy, Gov House IT Program)  
+- **Cloud-Native Security & Secure Software Delivery**  
+- **Advanced System Design & Architecture**  
+- **Blockchain** (Top 6 Performer at Xord Bootcamp)  
+
+---
+
+## 💬 Ask me about  
+- Full-Stack Engineering (JS, TS, Python, Next.js, React, FastAPI, MERN)  
+- Cloud & DevOps (AWS, CI/CD, scalability, system hardening)  
+- Generative AI & Automation  
+- Cybersecurity Best Practices  
+- Entrepreneurship & SaaS Product Development  
+
+---
+
+## ⚡ Fun fact  
+I’ve built everything from **AI-powered SaaS dashboards, cross-platform apps, agent-based systems, and automation bots** — all the way down to **small side projects like utilities, calculators, and dashboards** that make coding fun. 🚀
+
 
 
 ## 🌐 Socials:
@@ -15,8 +58,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=softengrmuhammadnabeel&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+### ✍️ What I Believe!  
+
+![Part1](https://img.shields.io/badge/%E2%9A%A1%20Great%20code%20doesn’t%20just%20run—it%20adapts,%20secures,%20and%20scales.-blueviolet?style=for-the-badge)  
+![Part2](https://img.shields.io/badge/💡%20The%20real%20innovation%20lies%20in%20building%20systems%20that%20think%20ahead-green?style=for-the-badge)  
+![Part3](https://img.shields.io/badge/and%20protect%20users%20before%20they%20even%20know%20they%20need%20it-orange?style=for-the-badge)  
+![Part4](https://img.shields.io/badge/—%20Nabeel%20Khan-lightgrey?style=for-the-badge)
+
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=softengrmuhammadnabeel&limit=5&theme=dark&combine_all_yearly_contributions=true)
